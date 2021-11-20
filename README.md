@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hung
-- 👀 I’m interested in quant!
+- 👀 I’m interested in quantitative finance!
 - 🌱 I’m currently learning RMIT, VietNam
 - 💞️ I’m looking to collaborate on everything which is connected to quant world!
 - 📫 How to reach me ...
