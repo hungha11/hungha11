@@ -2,7 +2,9 @@
 - 👀 I’m interested in quantitative finance!
 - 🌱 I’m currently learning finance in RMIT, VietNam
 - 💞️ I’m looking to collaborate on everything which is connected to quant world!
-- 📫 How to reach me ...
+- 📫 How to reach me :
+      - hungha1412@gmail.com
+      - qhung9621@gmail.com
 
 <!---
 hungha11/hungha11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
