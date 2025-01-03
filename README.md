@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Hung
-- 👀 I’m interested in algorithmic trading!
-- 🌱 Currently learning finance in RMIT, VietNam
-- 💞 I’m looking to collaborate on everything which is connected to quant world!
-- 📫 Contact me at:
- 
+Financial ML enthusiast!
+
       - hungha412@gmail.com
 
 <!---
